@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: b431c77eac4ba4e15854b2e12c2e9228
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5076025788453206416
+    second: portal2_pink_0
+  - first:
+      213: -181696463962743114
+    second: portal2_pink_1
+  - first:
+      213: 7359828981849546529
+    second: portal2_pink_2
+  - first:
+      213: -3264574537832934296
+    second: portal2_pink_3
+  - first:
+      213: 4757181651110125732
+    second: portal2_pink_4
+  - first:
+      213: -7191167353778544517
+    second: portal2_pink_5
+  - first:
+      213: -6680630613258377957
+    second: portal2_pink_6
+  - first:
+      213: 2402777989048221443
+    second: portal2_pink_7
+  - first:
+      213: -4872018562677364563
+    second: portal2_pink_8
+  - first:
+      213: -7045402724410133018
+    second: portal2_pink_9
+  - first:
+      213: 3444967299165213890
+    second: portal2_pink_10
+  - first:
+      213: -7719110554946743648
+    second: portal2_pink_11
+  - first:
+      213: -8350143040782250593
+    second: portal2_pink_12
+  - first:
+      213: -6462893569116076280
+    second: portal2_pink_13
+  - first:
+      213: -3530626148585456017
+    second: portal2_pink_14
+  - first:
+      213: -9018085011976567644
+    second: portal2_pink_15
+  - first:
+      213: 2742304526758940589
+    second: portal2_pink_16
+  - first:
+      213: 650539366354240515
+    second: portal2_pink_17
+  - first:
+      213: 6070576497303184102
+    second: portal2_pink_18
+  - first:
+      213: -3893325808834494815
+    second: portal2_pink_19
+  - first:
+      213: -5395066390496575231
+    second: portal2_pink_20
+  - first:
+      213: -9185146440308364772
+    second: portal2_pink_21
+  - first:
+      213: -4673576780031683048
+    second: portal2_pink_22
+  - first:
+      213: -4736212619725995491
+    second: portal2_pink_23
+  - first:
+      213: -4256545966924129122
+    second: portal2_pink_24
+  - first:
+      213: 8547407618176461862
+    second: portal2_pink_25
+  - first:
+      213: 451184689145088400
+    second: portal2_pink_26
+  - first:
+      213: 6732963161932592083
+    second: portal2_pink_27
+  - first:
+      213: -7594220667289201383
+    second: portal2_pink_28
+  - first:
+      213: 6644426970537903302
+    second: portal2_pink_29
+  - first:
+      213: -3269878110403023935
+    second: portal2_pink_30
+  - first:
+      213: 3005554054856092249
+    second: portal2_pink_31
+  - first:
+      213: 9099364882839454365
+    second: portal2_pink_32
+  - first:
+      213: 3873880275519819144
+    second: portal2_pink_33
+  - first:
+      213: -6349920222663732037
+    second: portal2_pink_34
+  - first:
+      213: -3632321422637352206
+    second: portal2_pink_35
+  - first:
+      213: 2051319957671238333
+    second: portal2_pink_36
+  - first:
+      213: 3495232496315447272
+    second: portal2_pink_37
+  - first:
+      213: 1793750931588797877
+    second: portal2_pink_38
+  - first:
+      213: 7782002563709614950
+    second: portal2_pink_39
+  - first:
+      213: -2737673429973822210
+    second: portal2_pink_40
+  - first:
+      213: 2843249695165539261
+    second: portal2_pink_41
+  - first:
+      213: 4526879874705063785
+    second: portal2_pink_42
+  - first:
+      213: 3894724778991793174
+    second: portal2_pink_43
+  - first:
+      213: -673241927146732276
+    second: portal2_pink_44
+  - first:
+      213: 3913463717786076792
+    second: portal2_pink_45
+  - first:
+      213: -3008492926422645233
+    second: portal2_pink_46
+  - first:
+      213: 1220933580715243062
+    second: portal2_pink_47
+  - first:
+      213: -5959097307517818137
+    second: portal2_pink_48
+  - first:
+      213: 4228500927095429054
+    second: portal2_pink_49
+  - first:
+      213: 5793141844335335461
+    second: portal2_pink_50
+  - first:
+      213: 4619675651092921278
+    second: portal2_pink_51
+  - first:
+      213: 132499206317241458
+    second: portal2_pink_52
+  - first:
+      213: 2443762997879687500
+    second: portal2_pink_53
+  - first:
+      213: -8375369286953478054
+    second: portal2_pink_54
+  - first:
+      213: -5988508960096813451
+    second: portal2_pink_55
+  - first:
+      213: -2857993047832191887
+    second: portal2_pink_56
+  - first:
+      213: -4275393368195969195
+    second: portal2_pink_57
+  - first:
+      213: -4654599307522359141
+    second: portal2_pink_58
+  - first:
+      213: -6355318224271033142
+    second: portal2_pink_59
+  - first:
+      213: 4283323964138480359
+    second: portal2_pink_60
+  - first:
+      213: -6216462828083954962
+    second: portal2_pink_61
+  - first:
+      213: -7130961666112439017
+    second: portal2_pink_62
+  - first:
+      213: 4779149030101605654
+    second: portal2_pink_63
+  - first:
+      213: 6662346976514524304
+    second: portal2_pink_64
+  - first:
+      213: -5683339231549255560
+    second: portal2_pink_65
+  - first:
+      213: 4851010146539935088
+    second: portal2_pink_66
+  - first:
+      213: -8165901965285242003
+    second: portal2_pink_67
+  - first:
+      213: -927992913948212321
+    second: portal2_pink_68
+  - first:
+      213: -8798290758801728946
+    second: portal2_pink_69
+  - first:
+      213: 3191874569894445335
+    second: portal2_pink_70
+  - first:
+      213: -7008948337309209408
+    second: portal2_pink_71
+  - first:
+      213: 3746099079166367715
+    second: portal2_pink_72
+  - first:
+      213: -4061105576826381875
+    second: portal2_pink_73
+  - first:
+      213: -6518833415508195297
+    second: portal2_pink_74
+  - first:
+      213: 4979611139144264785
+    second: portal2_pink_75
+  - first:
+      213: 2442016528995702696
+    second: portal2_pink_76
+  - first:
+      213: -6540136789022939244
+    second: portal2_pink_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portal2_pink_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076468870755e89b0800000000000000
+      internalID: -5076025788453206416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be5e88570c7a7df0800000000000000
+      internalID: -181696463962743114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f54c6077d532660800000000000000
+      internalID: 7359828981849546529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864dea911c6e1b2d0800000000000000
+      internalID: -3264574537832934296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0ec6ec187e40240800000000000000
+      internalID: 4757181651110125732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70e4a56467d33c90800000000000000
+      internalID: -7191167353778544517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15622d4ad1a943a0800000000000000
+      internalID: -6680630613258377957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fb85fb9d1685120800000000000000
+      internalID: 2402777989048221443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8a1882eec136cb0800000000000000
+      internalID: -4872018562677364563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5f6ffdc83b93e90800000000000000
+      internalID: -7045402724410133018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 17
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c45491a18bfecf20800000000000000
+      internalID: 3444967299165213890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_11
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a25e6e09d530e490800000000000000
+      internalID: -7719110554946743648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_12
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 41
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d497635255e1c80800000000000000
+      internalID: -8350143040782250593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_13
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 38
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8070eaf6a803f46a0800000000000000
+      internalID: -6462893569116076280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_14
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 17
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ebbd25932b00fc0800000000000000
+      internalID: -3530626148585456017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_15
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4ccd2267359d280800000000000000
+      internalID: -9018085011976567644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_16
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 17
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf896f007f9e0620800000000000000
+      internalID: 2742304526758940589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_17
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 30
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304c3f36b1e270900800000000000000
+      internalID: 650539366354240515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_18
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 17
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2679739250f3450800000000000000
+      internalID: 6070576497303184102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_19
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 11
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae3f89fdc028f9c0800000000000000
+      internalID: -3893325808834494815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_20
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 11
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1018dceb3bfd025b0800000000000000
+      internalID: -5395066390496575231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_21
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 11
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ae97f3afdc78080800000000000000
+      internalID: -9185146440308364772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_22
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 11
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81692b32eae142fb0800000000000000
+      internalID: -4673576780031683048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_23
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 10
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12828447b7954eb0800000000000000
+      internalID: -4736212619725995491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_24
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 10
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c9d57cef5bde4c0800000000000000
+      internalID: -4256545966924129122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_25
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 10
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c20ef41fd7e9670800000000000000
+      internalID: 8547407618176461862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_26
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 9
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0998694951ee24600800000000000000
+      internalID: 451184689145088400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_27
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d378c0b25a407d50800000000000000
+      internalID: 6732963161932592083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_28
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9151c4cf988eb9690800000000000000
+      internalID: -7594220667289201383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_29
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4cfe2402fb53c50800000000000000
+      internalID: 6644426970537903302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_30
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb2a92ee2f0f92d0800000000000000
+      internalID: -3269878110403023935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aaee02d7fd5b920800000000000000
+      internalID: 3005554054856092249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_32
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d924f438620774e70800000000000000
+      internalID: 9099364882839454365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_33
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d40ccf599c2c530800000000000000
+      internalID: 3873880275519819144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_34
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb41f08633d80e7a0800000000000000
+      internalID: -6349920222663732037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_35
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fab8a539e6679dc0800000000000000
+      internalID: -3632321422637352206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_36
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbad9a512a0c77c10800000000000000
+      internalID: 2051319957671238333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_37
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7b846df6f818030800000000000000
+      internalID: 3495232496315447272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_38
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b550e4f7fea4e810800000000000000
+      internalID: 1793750931588797877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_39
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b3713d91a3ffb60800000000000000
+      internalID: 7782002563709614950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_40
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4926f2584d10ad0800000000000000
+      internalID: -2737673429973822210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_41
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db364189880457720800000000000000
+      internalID: 2843249695165539261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_42
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ff8a8f245b2de30800000000000000
+      internalID: 4526879874705063785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_43
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614b7b52d87dc0630800000000000000
+      internalID: 3894724778991793174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_44
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 8
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c050584c80a28a6f0800000000000000
+      internalID: -673241927146732276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_45
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 9
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876c404548a6f4630800000000000000
+      internalID: 3913463717786076792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_46
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 10
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f068d438f9faf36d0800000000000000
+      internalID: -3008492926422645233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_47
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 10
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636b0e47f90a1f010800000000000000
+      internalID: 1220933580715243062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_48
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 10
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eae96b42980d4da0800000000000000
+      internalID: -5959097307517818137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_49
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 11
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7deeb8037aeaa30800000000000000
+      internalID: 4228500927095429054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_50
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 11
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5281f0560df556050800000000000000
+      internalID: 5793141844335335461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_51
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 11
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb3ae057826c1040800000000000000
+      internalID: 4619675651092921278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_52
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 17
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2747f8d735bb6d100800000000000000
+      internalID: 132499206317241458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_53
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 11
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49ccdbbf7df9e120800000000000000
+      internalID: 2443762997879687500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_54
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 17
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58db641206b4cb80800000000000000
+      internalID: -8375369286953478054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_55
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 30
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e7f2b44da84eca0800000000000000
+      internalID: -5988508960096813451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_56
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 17
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c1d6d177e5658d0800000000000000
+      internalID: -2857993047832191887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_57
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f4e953260caa4c0800000000000000
+      internalID: -4275393368195969195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_58
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 38
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90c957479a876fb0800000000000000
+      internalID: -4654599307522359141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_59
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 41
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc32c73fbf5dc7a0800000000000000
+      internalID: -6355318224271033142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_60
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2646c837c617b30800000000000000
+      internalID: 4283323964138480359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_61
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 17
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeab2ac7effaab9a0800000000000000
+      internalID: -6216462828083954962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_62
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 17
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71db078652cb90d90800000000000000
+      internalID: -7130961666112439017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_63
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ddbdbc8b2f25240800000000000000
+      internalID: 4779149030101605654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_64
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 17
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094cb89c649657c50800000000000000
+      internalID: 6662346976514524304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_65
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 14
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870177d9419b021b0800000000000000
+      internalID: -5683339231549255560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_66
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 17
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075145ac600425340800000000000000
+      internalID: 4851010146539935088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_67
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 13
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b42886d63ecae80800000000000000
+      internalID: -8165901965285242003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_68
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 11
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93890a8c5b1f13f0800000000000000
+      internalID: -927992913948212321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_69
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 11
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a55039b2136e580800000000000000
+      internalID: -8798290758801728946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_70
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 11
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71149229201db4c20800000000000000
+      internalID: 3191874569894445335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_71
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 11
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccae994f963bbe90800000000000000
+      internalID: -7008948337309209408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_72
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 17
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7112bc341dcf330800000000000000
+      internalID: 3746099079166367715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_73
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 13
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9d7e99efd04a7c0800000000000000
+      internalID: -4061105576826381875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_74
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 17
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1800befb837885a0800000000000000
+      internalID: -6518833415508195297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_75
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 14
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ca54ca2f12b1540800000000000000
+      internalID: 4979611139144264785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_76
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 17
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7db624819c3e120800000000000000
+      internalID: 2442016528995702696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal2_pink_77
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497e2d3dd34cc35a0800000000000000
+      internalID: -6540136789022939244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

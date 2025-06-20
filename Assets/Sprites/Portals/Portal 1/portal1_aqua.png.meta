@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: 11fc35b5e5f414da5a2dab8efbe1e9e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8167246884656373921
+    second: portal1_aqua_0
+  - first:
+      213: 244016315114692201
+    second: portal1_aqua_1
+  - first:
+      213: -3162909393761782177
+    second: portal1_aqua_2
+  - first:
+      213: 9201713016030613467
+    second: portal1_aqua_3
+  - first:
+      213: 251528407139036646
+    second: portal1_aqua_4
+  - first:
+      213: -8437287755902234262
+    second: portal1_aqua_5
+  - first:
+      213: 7107388633240757075
+    second: portal1_aqua_6
+  - first:
+      213: -1687076878687853233
+    second: portal1_aqua_7
+  - first:
+      213: 1374321657547699203
+    second: portal1_aqua_8
+  - first:
+      213: 9066146026177247453
+    second: portal1_aqua_9
+  - first:
+      213: -2458853435061925392
+    second: portal1_aqua_10
+  - first:
+      213: 1906619856467862954
+    second: portal1_aqua_11
+  - first:
+      213: -3865157646175169707
+    second: portal1_aqua_12
+  - first:
+      213: 645244724766733326
+    second: portal1_aqua_13
+  - first:
+      213: 1535119482156831050
+    second: portal1_aqua_14
+  - first:
+      213: -1778034321068493600
+    second: portal1_aqua_15
+  - first:
+      213: 3358234883248896060
+    second: portal1_aqua_16
+  - first:
+      213: -8072245865336677053
+    second: portal1_aqua_17
+  - first:
+      213: 617287267855636423
+    second: portal1_aqua_18
+  - first:
+      213: 4489736721415466093
+    second: portal1_aqua_19
+  - first:
+      213: 1436879025049390592
+    second: portal1_aqua_20
+  - first:
+      213: -2025823016122324391
+    second: portal1_aqua_21
+  - first:
+      213: -2337058430272010163
+    second: portal1_aqua_22
+  - first:
+      213: -2462991208660209149
+    second: portal1_aqua_23
+  - first:
+      213: -2665199175692675156
+    second: portal1_aqua_24
+  - first:
+      213: 4172867468072419502
+    second: portal1_aqua_25
+  - first:
+      213: -1803255072073940486
+    second: portal1_aqua_26
+  - first:
+      213: -8191419168629321199
+    second: portal1_aqua_27
+  - first:
+      213: -1494425473423409072
+    second: portal1_aqua_28
+  - first:
+      213: 2579704042294328522
+    second: portal1_aqua_29
+  - first:
+      213: 5133986841796461757
+    second: portal1_aqua_30
+  - first:
+      213: 2757012879005405385
+    second: portal1_aqua_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portal1_aqua_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f1427fa3c18ae80800000000000000
+      internalID: -8167246884656373921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 10
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e9fc5bb8be26300800000000000000
+      internalID: 244016315114692201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5635180aa61b14d0800000000000000
+      internalID: -3162909393761782177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfc79d3c3d03bf70800000000000000
+      internalID: 9201713016030613467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed217ee0cb9d7300800000000000000
+      internalID: 251528407139036646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61d1b91d7bb8ea80800000000000000
+      internalID: -8437287755902234262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353e6fc2e4482a260800000000000000
+      internalID: 7107388633240757075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f452901748c4698e0800000000000000
+      internalID: -1687076878687853233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304b14d1442921310800000000000000
+      internalID: 1374321657547699203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 12
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd83d1cb6cb61dd70800000000000000
+      internalID: 9066146026177247453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_10
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 13
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9826014d560edd0800000000000000
+      internalID: -2458853435061925392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_11
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 19
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5297268aca57a10800000000000000
+      internalID: 1906619856467862954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 22
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55318da69933c5ac0800000000000000
+      internalID: -3865157646175169707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 24
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e047ae498ae54f800800000000000000
+      internalID: 645244724766733326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_14
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 25
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a415dbd1907dd4510800000000000000
+      internalID: 1535119482156831050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_15
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 26
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4724694372357e0800000000000000
+      internalID: -1778034321068493600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_16
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 28
+        width: 69
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38306865d8da9e20800000000000000
+      internalID: 3358234883248896060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_17
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 28
+        width: 69
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dddf0772f99ff80800000000000000
+      internalID: -8072245865336677053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_18
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 26
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c718e4ef7b019800800000000000000
+      internalID: 617287267855636423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_19
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 25
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ceefea2cfbe4e30800000000000000
+      internalID: 4489736721415466093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_20
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 24
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e47414cd1d0f310800000000000000
+      internalID: 1436879025049390592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_21
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 22
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ae73a33b4d2e3e0800000000000000
+      internalID: -2025823016122324391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_22
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 19
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d480e4c6db9119fd0800000000000000
+      internalID: -2337058430272010163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_23
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 13
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302f5e29b82b1ddd0800000000000000
+      internalID: -2462991208660209149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_24
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 12
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca79c25787f430bd0800000000000000
+      internalID: -2665199175692675156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_25
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea08d397ad009e930800000000000000
+      internalID: 4172867468072419502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_26
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af18c95e01d89f6e0800000000000000
+      internalID: -1803255072073940486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_27
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11216878aab325e80800000000000000
+      internalID: -8191419168629321199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_28
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0508d4123fbb24be0800000000000000
+      internalID: -1494425473423409072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_29
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accb79a9823fcc320800000000000000
+      internalID: 2579704042294328522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_30
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4cec2e4d59f3740800000000000000
+      internalID: 5133986841796461757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal1_aqua_31
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 11
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c05b4e2b90e24620800000000000000
+      internalID: 2757012879005405385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

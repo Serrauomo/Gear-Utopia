@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TopDownController2D/Samples/Sample_1/Scenes/MainMenu.unity
+    guid: 4ec2483769cf34c7299cd50f72d5ad05
+  - enabled: 1
+    path: Assets/TopDownController2D/Samples/Sample_1/Scenes/TopDownExampleScene.unity
+    guid: ebae8f302624b1d41af5c7f36a78336f
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 2378f6c44e0cc4ceba188df76f0d8855, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 2d6cc84029a7349298d07b4c45e1a77f, type: 2}
+  m_UseUCBPForAssetBundles: 0

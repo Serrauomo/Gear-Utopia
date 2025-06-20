@@ -1,0 +1,34 @@
+{
+	"name": "com.nyanyann.topdowncontroller2d",
+	"version": "0.6",
+	"displayName": "2D Top down controller",
+	"description": "This is an example package",
+	"unity": "2020.3",
+	"samples": [
+		{
+			"displayName": "Example project",
+			"description": "A simple example project using this package",
+			"path": "Samples~/Sample_1/"
+		}
+	],
+	"dependencies": {
+		"com.unity.2d.animation": "5.0.7",
+		"com.unity.2d.pixel-perfect": "4.0.1",
+		"com.unity.2d.sprite": "1.0.0",
+		"com.unity.2d.tilemap": "1.0.0",
+		"com.unity.cinemachine": "2.6.11",
+		"com.unity.inputsystem": "1.0.2",
+		"com.unity.textmeshpro": "3.0.6",
+		"com.unity.modules.animation": "1.0.0",
+		"com.unity.modules.audio": "1.0.0",
+		"com.unity.modules.particlesystem": "1.0.0",
+		"com.unity.modules.physics": "1.0.0",
+		"com.unity.modules.physics2d": "1.0.0",
+		"com.unity.modules.tilemap": "1.0.0",
+		"com.unity.modules.ui": "1.0.0"
+	},
+	"author": {
+		"name": "NyanYann",
+		"url": "https://nyanyann.itch.io"
+	}
+}
